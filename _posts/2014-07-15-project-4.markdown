@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 4
+title: Pandemic
 date: 2017-04-15
 img: pandemic.png
 alt: image-alt

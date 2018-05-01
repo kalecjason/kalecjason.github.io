@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 5
+title: OpenGL Art Gallery
 date: 2014-04-15
 img: opengl.png
 alt: image-alt

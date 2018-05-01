@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 6
+title: Bonzee
 date: 2017-12-15
 img: bonzee.PNG
 alt: image-alt

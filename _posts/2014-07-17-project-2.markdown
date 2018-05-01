@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 2
+title: Dear Empty Diary
 date: 2017-12-15
 img: 376-2.PNG
 alt: image-alt
