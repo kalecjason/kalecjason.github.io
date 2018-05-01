@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 title: Pandemic
-date: 2017-04-15
+date: 2017-04-14
 img: pandemic.png
 alt: image-alt
 project-date: April 2017
