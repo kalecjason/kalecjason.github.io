@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2017-12-15
-img: bonzee.png
+img: bonzee.PNG
 alt: image-alt
 project-date: December 2017
 client: Concordia University

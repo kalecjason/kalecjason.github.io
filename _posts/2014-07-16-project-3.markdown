@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2018-04-03
-img: tank.png
+img: tank.PNG
 alt: image-alt
 project-date: April 2018
 client: Concordia University
