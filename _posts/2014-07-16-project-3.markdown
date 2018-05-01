@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+date: 2018-04-03
+img: tank.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: April 2018
+client: Concordia University
+category: Game Development
+description: Developed using Unity Game Engine and C#, this is a game that can be played online where two tanks must battle each other until the other one is destroyed, the map contains destructable walls as well as power ups to assist each player as well as basic AI tanks to attack nearby players.
 
 ---
