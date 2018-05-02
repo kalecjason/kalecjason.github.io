@@ -27,8 +27,8 @@ disqus_shortname: Jason
 color:
   primary: ffffff #80B3FF
   primary-rgb: "255,255,255" #"128,179,255"
-  secondary: 3c3c3c #FD6E8A
-  secondary-dark: 000000 #A2122F
+  secondary: ff9645 #FD6E8A
+  secondary-dark: ff0000 #A2122F
 
 # Footer settings
 footer:
