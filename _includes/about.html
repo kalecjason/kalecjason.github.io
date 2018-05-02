@@ -9,16 +9,28 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+                    <p>Greetings, my name is Jason and welcome to my portfolio, I hope you enjoy it. I have recently completed a Bachelor of Computer Science at Concordia University located in Montreal, Quebec, Canada. <br />
+                    My interests lie primarily in the field of Game Development but also extend to Software Development as well as Music Production. My drive is to work in the Game industry on the games that I adore.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point! </p>
+                    <p>Different elements that I have experience with include but are not limited to: C#, C++, Unity3D, Java, SQL, PHP, HTML, GIT, and more. <br />
+                    Currently I am working towards expanding my skill set to include Unreal Engine and to further improve my C++ skills </p>
                 </div>
-                <div class="col-lg-8 col-lg-offset-2 text-center">
+                <!--<div class="col-lg-8 col-lg-offset-2 text-center">
                     <a href="#" class="btn btn-lg btn-outline">
                         <i class="fa fa-download"></i> Download Theme
                     </a>
-                </div>
+                </div>-->
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                        <h3>{{ site.footer.social }}</h3>
+                        <ul class="list-inline">
+                            {% for network in site.social %}
+                            <li>
+                                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
             </div>
         </div>
     </section>
