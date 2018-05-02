@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 title: OpenGL Art Gallery
-date: 2014-04-13
+date: 2017-04-15
 img: opengl.png
 alt: image-alt
 project-date: April 2017
