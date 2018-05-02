@@ -5,7 +5,7 @@ title: OpenGL Art Gallery
 date: 2017-04-15
 img: opengl.png
 alt: image-alt
-project-date: April 2017
+project-date: May 2017
 client: Concordia University
 category: Graphics
 description: Developed Using C++ and OpenGL, an art gallery with procedurally generated rooms, paintings and sculptures. 
