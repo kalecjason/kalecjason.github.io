@@ -456,3 +456,10 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+section.success {
+    color: #000;
+    text-align: center;
+    width: 100%;
+    background: #{{ site.color.primary }};
+}
