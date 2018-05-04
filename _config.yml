@@ -50,7 +50,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.<br /><a href="https://github.com/jeromelachaud/freelancer-theme/blob/master/LICENCE">License</a><br />Freelancer Theme By <a href="http://jekyllthemes.org/themes/freelancer/">Jekyll</a><br /> Modifications Done by Jason Kalec - 2018'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.<br /><a href="https://github.com/kalecjason/kalecjason.github.io/blob/master/LICENCE">License</a><br />Freelancer Theme By <a href="http://jekyllthemes.org/themes/freelancer/">Jekyll</a><br /> Modifications Done by Jason Kalec - 2018'
 
 # Build settings
 markdown: kramdown
