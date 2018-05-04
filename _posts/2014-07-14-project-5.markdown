@@ -7,7 +7,7 @@ img: pandemic.png
 alt: image-alt
 project-date: April 2017
 client: Concordia University
-category: Software Development
+category: Software Development: C++
 description: Developed using C++, Pandemic is a console based recreation of the popular board game of the same name, developed using a console UI as well as various design patterns to facilitate development.
 
 ---
