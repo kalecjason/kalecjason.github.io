@@ -7,7 +7,7 @@ img: 376-2.PNG
 alt: image-alt
 project-date: December 2017
 client: Concordia University
-category: Game Development: C# | Unity3D
+category: "Game Development: C# | Unity3D"
 description: Developed using Unity Game Engine and C#. Dear Empty Diary is an overhead 2D based story game, where the objective is to solve the puzzles in order to proceed to the next level while being immersed in the games story line.
 
 ---

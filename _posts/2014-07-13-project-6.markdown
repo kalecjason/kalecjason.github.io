@@ -7,7 +7,7 @@ img: bonzee.PNG
 alt: image-alt
 project-date: December 2017
 client: Concordia University
-category: Artificial Intelligence: C++
+category: "Artificial Intelligence: C++"
 description: Developed using C++ Bonzee is game where an AI plays versus a human player using Alpha Beta Pruning.
 
 ---
