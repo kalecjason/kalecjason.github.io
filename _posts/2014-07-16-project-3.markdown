@@ -7,7 +7,7 @@ img: tank.PNG
 alt: image-alt
 project-date: April 2018
 client: Concordia University
-category: "Game Development: C# | Unity3D | Networking"
+category: Game Development - C# | Unity3D | Networking
 description: Developed using Unity Game Engine and C#, this is a game that can be played online where two tanks must battle each other until the other one is destroyed, the map contains destructable walls as well as power ups to assist each player as well as basic AI tanks to attack nearby players.
 
 ---

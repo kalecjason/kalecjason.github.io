@@ -7,7 +7,7 @@ img: 476-2.PNG
 alt: image-alt
 project-date: April 2018
 client: Concordia University
-category: "Game Development: C# | Unity3D"
+category: Game Development - C# | Unity3D
 description:  Developed using Unity Game Engine and C#. Charge and Conquest 2 is an overhead 3d shooter where the objective is to capture all nine of the capture points for your team while defending against the enemy team.
 
 

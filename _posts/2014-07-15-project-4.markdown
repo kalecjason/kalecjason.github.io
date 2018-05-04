@@ -7,7 +7,7 @@ img: opengl.png
 alt: image-alt
 project-date: May 2017
 client: Concordia University
-category: "Graphics: C++ | OpenGL"
+category: Graphics - C++ | OpenGL
 description: Developed Using C++ and OpenGL, an art gallery with procedurally generated rooms, paintings and sculptures. 
 
 ---
