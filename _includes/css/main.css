@@ -456,3 +456,7 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+footer p {
+    font-size: 9px;
+}
