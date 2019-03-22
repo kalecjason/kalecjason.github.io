@@ -4,7 +4,7 @@ modal-id: 6
 title: Farm Legends
 date: 2019-03-15
 img: farm.PNG
-alt: image-alt
+alt: cabin.png
 project-date: March 2019
 client: McGameJam 2019
 category: Game Development - C# | Unity3D
