@@ -1,13 +1,13 @@
 ---
 layout: default
 modal-id: 6
-title: Bonzee
-date: 2017-12-15
-img: bonzee.PNG
+title: Farm Legends
+date: 2019-03-15
+img: farm.PNG
 alt: image-alt
-project-date: December 2017
-client: Concordia University
-category: Artificial Intelligence - C++
-description: Developed using C++ Bonzee is game where an AI plays versus a human player using Alpha Beta Pruning.
+project-date: March 2019
+client: McGameJam 2019
+category: Game Development - C# | Unity3D
+description: Developed using C# is an Overcooked meets Harvest Moon style game developed in 48 hours at McGameJam 2019, This game received an honorable mention award given by Ubisoft judges.
 
 ---
