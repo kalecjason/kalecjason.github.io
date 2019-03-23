@@ -8,6 +8,6 @@ alt: image-alt
 project-date: March 2019
 client: McGameJam 2019
 category: Game Development - C# | Unity3D
-description: Developed using C# is an Overcooked meets Harvest Moon style game developed in 48 hours at McGameJam 2019, This game received an honorable mention award given by Ubisoft judges.
+description: Developed using C# is an Overcooked meets Harvest Moon style game developed in 48 hours at McGameJam 2019, This game received an honorable mention award given by Ubisoft judges.<br /> <<a href="https://www.youtube.com/watch?v=r1EBLKTpBXc">Video Demo</a>>
 
 ---
