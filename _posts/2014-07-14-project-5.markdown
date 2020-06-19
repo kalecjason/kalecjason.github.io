@@ -1,13 +1,13 @@
 ---
 layout: default
 modal-id: 5
-title: Pandemic
-date: 2017-04-14
-img: pandemic.png
+title: Temple Trek
+date: 2020-01-15
+img: temple.png
 alt: image-alt
-project-date: April 2017
-client: Concordia University
-category: Software Development - C++
-description: Developed using C++, Pandemic is a console based recreation of the popular board game of the same name, developed using a console UI as well as various design patterns to facilitate development.
+project-date: January 2020
+client: McGameJam 2020
+category: Game Development - C# | Unity3D
+description: Developed in 48 hours using C# and Unity3D for McGameJam 2020 hosted by McGill and Ubisoft. The theme for the game jam was "Can't go back". Temple Trek is a puzzle based game where platforms fall as the player steps off the platform and the player must venture from the begining of each level to the exit.
 
 ---
